@@ -1,0 +1,15 @@
+{
+"valid": [
+{ "email": "testetsy86@gmail.com", "password": "Google321" },
+{ "email": "testetsy08@gmail.com", "password": "Google321" },
+{ "email": "etsytest29@gmailcom", "password": "Google321" }
+],
+"invalid": [
+{ "email": "bad.user@example.com", "password": "WrongPassword!" }
+],
+"requiredFields": {
+"email": "",
+"firstName": "",
+"password": ""
+}
+}
